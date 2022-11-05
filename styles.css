@@ -1,0 +1,43 @@
+body {
+    font-family: "Arial", sans-serif;
+    background-color: rgb(0, 225, 255);
+}
+
+h1 {
+    background-color:dimgray;
+    color: white;
+    text-align: center;
+    font-size: 64px;
+}
+
+h2 {
+    background-color:dimgray;
+    color: white;
+    text-align: center;
+    font-size: 32px;
+}
+
+.recipe-img {
+    height: 400px;
+    width: 400px;
+}
+
+.homepage-img {
+    height: auto;
+    width: 600px;
+}
+
+img,
+.homepage-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    text-align: center;
+}
+
+li {
+    margin-bottom: 20px;
+}
